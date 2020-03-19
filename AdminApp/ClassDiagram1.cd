@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdminApp.AesInfo">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>AesInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.AmazonS3Uploader">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAARAAAAAA=</HashCode>
+      <FileName>AmazonUploader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.Constants">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAQAAQAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.Distribute">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAIAgAAICAAABAAAICAAAASAAAIAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Distribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.HostList">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAQAAAAACAAAAiIABAAAAAQAACAIAAAAA=</HashCode>
+      <FileName>HostList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.InstallApps">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAAIAAAAACAAABAAAACAAACCAAAIABAQACAAAAAAAAA=</HashCode>
+      <FileName>InstallApps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.RDPClient">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>RDPClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.RemoteDesktop">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAIgCAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>RemoteDesktop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdminApp.UdpHelper">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAAAQAAAIAAgAAAEAAAAAABAAEAQQAkIAAQAEIA=</HashCode>
+      <FileName>UdpHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
